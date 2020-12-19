@@ -1,2 +1,2 @@
 
-Witht the help of the Zillow API.
+With the help of the Zillow API.
